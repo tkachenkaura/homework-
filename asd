@@ -25,7 +25,7 @@ namespace _20._06
                     Task2();
                     break;
                 case 3:
-                    Task3();
+                    Task11111();
                     break;
                 case 4:
                     Task4();
@@ -67,7 +67,7 @@ namespace _20._06
             Console.WriteLine(input);
         }
 
-        static void Task3()
+        static void Task11111()
         {
             Console.WriteLine("Enter the number of characters:");
             int count = int.Parse(Console.ReadLine());
